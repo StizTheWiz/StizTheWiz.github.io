@@ -1,0 +1,12 @@
+11/26/2023 - Site Launch
+  - Added Home page
+  - Added Games page
+  - Added VPN page
+  - Added Announcements page
+  - Added Info page
+  - Added Doom
+  - Added Karlson
+  - Added Opera Browser download
+  - Added Opera GX Browser download
+  - Added Announcement: Site has officially launched! You may notice that there aren't many games right now. Believe me, there are more.
+                        I still have to add them, so I'll be doing that over the next week or two. Thanks for your patience.
