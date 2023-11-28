@@ -1,3 +1,8 @@
+11/27/2023 - Bug Fixes and Improvements
+  - Fixed Doom and Karlson download links
+  - Updated Games page
+  - Updated Home page
+
 11/26/2023 - Site Launch
   - Added Home page
   - Added Games page
