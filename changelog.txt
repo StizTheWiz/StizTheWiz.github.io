@@ -1,3 +1,18 @@
+12/06/2023 - Major Games Update
+  - Added Geometry Dash (external download)
+  - Added Hollow Knight (external download)
+  - Added Milkman Karlson (external download)
+  - Added Minetest
+  - Added RE:RUN
+  - Added TrackMania Nations Forever (external download)
+  - Added Undertale (external download)
+  - Added Vibrant Venture
+  - Updated Games page
+  - Added Announcement: Finally got around to adding eight more games. I have a few more that I'll add eventually, but right now this is all 
+                        I have planned. I'm working on getting some other stuff on here as well, including an AI and a chat network. Those are 
+                        going to take much longer, so don't expect them anytime soon. One last thing, if you have any suggestions, questions, 
+                        etc. regarding the site, feel free to reach out.
+
 11/27/2023 - Bug Fixes and Improvements
   - Fixed Doom and Karlson download links
   - Updated Games page
