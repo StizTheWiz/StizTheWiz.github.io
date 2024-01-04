@@ -1,3 +1,10 @@
+01/04/2024 - Minor Additions
+  - Added Website Icon
+  - Added The Lair
+  - Minor Improvements
+  - Added Announcement: Recently got administrator access on the school laptop, which is a big game changer. All other website related projects
+                        I'm working on are going to be put on hold until I add the hack to get admin access for yourself. In the meantime, I've
+                        added a new game, so be sure to check it out!
 12/06/2023 - Major Games Update
   - Added Geometry Dash (external download)
   - Added Hollow Knight (external download)
