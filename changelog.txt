@@ -1,3 +1,6 @@
+03/27/2024 - Improvements
+  - Relocated games to games directory
+
 03/26/2024 - Admin Update
   - Added Admin page
   - Added CompassHack
