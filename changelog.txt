@@ -1,3 +1,11 @@
+04/01/2024 - Minor Additions and Bug "Fixes"
+  - Added Karlson 2D
+  - Added Betternet Install
+  - Removed Admin page link
+  - Added Announcement: It appears that for some bizzare reason the admin program only works properly when run from an external drive, which kinda means that all 
+                        that time I spent implementing the admin download was for nothing. If you still want admin, contact me and I can give it to you directly 
+                        from my USB.
+
 03/27/2024 - Improvements
   - Relocated games to games directory
 
