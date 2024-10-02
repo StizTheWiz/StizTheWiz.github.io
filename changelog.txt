@@ -1,13 +1,36 @@
+10/02/2024 - Major Site Overhaul
+  - Modified "trigger words"
+  - Modified page layout
+  - Relocated external downloads
+  - Added Other page
+  - Added other directory
+  - Added PyNet
+  - Added Desktop Goose
+  - Added xGPT (external download)
+  - Added Clustertruck (external download)
+  - Added Deltarune (external download)
+  - Added Plague Inc. Evolved (external download)
+  - Added Spelunky Classic
+  - Updated Home page
+  - Renamed Admin page to CompassHack page
+  - Renamed V!P!N page to tenretteB page
+  - Removed NPVykS Install
+  - Added Announcement: Once again it has been quite some time. At the beginning of this year the website got flagged and subsequently blocked. However, they have
+                        underestimated my power. The website is now back up and running on the new URL. To prevent it from getting blocked again, I have gone in 
+                        and censored certain words, primarily "g@me" and "V!P!N". In addition, I have added several new g@mes, as well as several previously promised 
+                        programs. This is the biggest update since the site's launch, so unless it gets blocked again, this will be the last one for some time. If
+                        there are any issues, please contact me, I have literally nothing better to do.
+
 04/01/2024 - Minor Additions and Bug "Fixes"
   - Added Karlson 2D
-  - Added Betternet Install
+  - Added tenretteB Install
   - Removed Admin page link
   - Added Announcement: It appears that for some bizzare reason the admin program only works properly when run from an external drive, which kinda means that all 
                         that time I spent implementing the admin download was for nothing. If you still want admin, contact me and I can give it to you directly 
                         from my USB.
 
 03/27/2024 - Improvements
-  - Relocated games to games directory
+  - Relocated g@mes to "g@mes" directory
 
 03/26/2024 - Admin Update
   - Added Admin page
@@ -15,17 +38,16 @@
   - Added Minecraft Unity
   - Added RandomPac
   - Added SHRUBNAUT
-  - Added SkyVPN Install
+  - Added NPVykS Install
   - Updated Home page
-  - Updated VPN page
+  - Updated V!P!N page
   - Removed Minetest
-  - Removed Opera Browser download
-  - Removed Opera GX Browser download
+  - Removed 0per@ Browser download
+  - Removed 0per@ GX Browser download
   - Added Announcement: Hey! It's been a while. But guess what! For an unspecified length of time, I will be offering the administrator access download for free!
                         You can access it by going to the Home page and clicking on Admin. I haven't decided how long it will be until I start charging (if I 
-                        start charging), so I suggest getting it now before it is too late! I also added a few more games, so check those out if you want! Finally,
-                        I am still searching for a better VPN, so if you know of one, feel free to reach out.
-
+                        start charging), so I suggest getting it now before it is too late! I also added a few more g@mes, so check those out if you want! Finally,
+                        I am still searching for a better V!P!N, so if you know of one, feel free to reach out.
 
 01/04/2024 - Minor Additions
   - Added Website Icon
@@ -33,8 +55,9 @@
   - Minor Improvements
   - Added Announcement: Recently got administrator access on the school laptop, which is a big game changer. All other website related projects
                         I'm working on are going to be put on hold until I add the hack to get admin access for yourself. In the meantime, I've
-                        added a new game, so be sure to check it out!
-12/06/2023 - Major Games Update
+                        added a new g@me, so be sure to check it out!
+
+12/06/2023 - Major G@mes Update
   - Added Geometry Dash (external download)
   - Added Hollow Knight (external download)
   - Added Milkman Karlson (external download)
@@ -43,26 +66,26 @@
   - Added TrackMania Nations Forever (external download)
   - Added Undertale (external download)
   - Added Vibrant Venture
-  - Updated Games page
-  - Added Announcement: Finally got around to adding eight more games. I have a few more that I'll add eventually, but right now this is all 
+  - Updated G@mes page
+  - Added Announcement: Finally got around to adding eight more g@mes. I have a few more that I'll add eventually, but right now this is all 
                         I have planned. I'm working on getting some other stuff on here as well, including an AI and a chat network. Those are 
                         going to take much longer, so don't expect them anytime soon. One last thing, if you have any suggestions, questions, 
                         etc. regarding the site, feel free to reach out.
 
 11/27/2023 - Bug Fixes and Improvements
   - Fixed Doom and Karlson download links
-  - Updated Games page
+  - Updated G@mes page
   - Updated Home page
 
 11/26/2023 - Site Launch
   - Added Home page
-  - Added Games page
-  - Added VPN page
+  - Added G@mes page
+  - Added V!P!N page
   - Added Announcements page
   - Added Info page
   - Added Doom
   - Added Karlson
-  - Added Opera Browser download
-  - Added Opera GX Browser download
-  - Added Announcement: Site has officially launched! You may notice that there aren't many games right now. Believe me, there are more.
+  - Added 0per@ Browser download
+  - Added 0per@ GX Browser download
+  - Added Announcement: Site has officially launched! You may notice that there aren't many g@mes right now. Believe me, there are more.
                         I still have to add them, so I'll be doing that over the next week or two. Thanks for your patience.
