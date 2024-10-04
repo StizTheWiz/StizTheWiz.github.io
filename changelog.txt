@@ -1,3 +1,8 @@
+10/04/2024 - Bug Fixes and Improvements
+  - Updated external downloads with additional instructions
+  - Fixed typos and outdated information
+  - Removed url endings
+
 10/02/2024 - Major Site Overhaul
   - Modified "trigger words"
   - Modified page layout
