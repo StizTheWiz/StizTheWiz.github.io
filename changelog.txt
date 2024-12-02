@@ -1,3 +1,14 @@
+12/02/2024 - Visual Redesign
+  - Relocated external downloads to internal
+  - Added JavaScript elements to Home page
+  - Added Bloons TD5
+  - Added FNAF Trilogy
+  - Added Picotris
+  - Redesigned site using CSS
+  - Added Announcement: So I may or may not have gotten so bored in class that I completely redesigned the site. Whoops. In addition to the sight no longer looking
+                        hideous, I have also added a few more g@mes and fixed some download links. This is almost certainly it until at least the new year. I don't 
+                        know how to end this one so bye.
+
 10/04/2024 - Bug Fixes and Improvements
   - Updated external downloads with additional instructions
   - Fixed typos and outdated information
